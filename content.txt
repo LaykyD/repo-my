@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes 1
+=======
+changes
+>>>>>>> 911c322 (changes content.txt)
